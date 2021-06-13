@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BeerHub</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
