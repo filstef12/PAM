@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Beers_List"
+        android:orderInCategory="1"
+        android:title="Lista piw"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Add_Review"
+        android:orderInCategory="1"
+        android:title="Oceń piwo"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/Review_List"
+        android:orderInCategory="1"
+        android:title="Przeczytaj recenzje piw"
+        app:showAsAction="never" />
+</menu>
